@@ -1,0 +1,709 @@
+{
+  "3": {
+    "id": 3,
+    "name": "Linux",
+    "abbreviation": "Linux",
+    "family": "Linux",
+    "logoImageId": "plak"
+  },
+  "4": {
+    "id": 4,
+    "name": "Nintendo 64",
+    "abbreviation": "N64",
+    "family": "Nintendo",
+    "logoImageId": "pl78"
+  },
+  "5": {
+    "id": 5,
+    "name": "Wii",
+    "abbreviation": "Wii",
+    "family": "Nintendo",
+    "logoImageId": "pl92"
+  },
+  "6": {
+    "id": 6,
+    "name": "PC (Microsoft Windows)",
+    "abbreviation": "PC",
+    "family": null,
+    "logoImageId": "irwvwpl023f8y19tidgq"
+  },
+  "7": {
+    "id": 7,
+    "name": "PlayStation",
+    "abbreviation": "PS1",
+    "family": "PlayStation",
+    "logoImageId": "pl7q"
+  },
+  "8": {
+    "id": 8,
+    "name": "PlayStation 2",
+    "abbreviation": "PS2",
+    "family": "PlayStation",
+    "logoImageId": "pl72"
+  },
+  "9": {
+    "id": 9,
+    "name": "PlayStation 3",
+    "abbreviation": "PS3",
+    "family": "PlayStation",
+    "logoImageId": "tuyy1nrqodtmbqajp4jg"
+  },
+  "11": {
+    "id": 11,
+    "name": "Xbox",
+    "abbreviation": "XBOX",
+    "family": "Xbox",
+    "logoImageId": "pl7e"
+  },
+  "12": {
+    "id": 12,
+    "name": "Xbox 360",
+    "abbreviation": "X360",
+    "family": "Xbox",
+    "logoImageId": "plha"
+  },
+  "13": {
+    "id": 13,
+    "name": "PC DOS",
+    "abbreviation": "DOS",
+    "family": null,
+    "logoImageId": "sqgw6vespav1buezgjjn"
+  },
+  "14": {
+    "id": 14,
+    "name": "Mac",
+    "abbreviation": "Mac",
+    "family": null,
+    "logoImageId": "jl4t4o64uv2gizj2dxsy"
+  },
+  "15": {
+    "id": 15,
+    "name": "Commodore C64/128",
+    "abbreviation": "C64",
+    "family": null,
+    "logoImageId": "pl8c"
+  },
+  "16": {
+    "id": 16,
+    "name": "Amiga",
+    "abbreviation": "Amiga",
+    "family": null,
+    "logoImageId": null
+  },
+  "18": {
+    "id": 18,
+    "name": "Nintendo Entertainment System (NES)",
+    "abbreviation": "NES",
+    "family": "Nintendo",
+    "logoImageId": "pl6d"
+  },
+  "19": {
+    "id": 19,
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "abbreviation": "SNES",
+    "family": "Nintendo",
+    "logoImageId": "plev"
+  },
+  "20": {
+    "id": 20,
+    "name": "Nintendo DS",
+    "abbreviation": "NDS",
+    "family": "Nintendo",
+    "logoImageId": "pl6t"
+  },
+  "21": {
+    "id": 21,
+    "name": "Nintendo GameCube",
+    "abbreviation": "NGC",
+    "family": "Nintendo",
+    "logoImageId": "pl7a"
+  },
+  "22": {
+    "id": 22,
+    "name": "Game Boy Color",
+    "abbreviation": "GBC",
+    "family": "Nintendo",
+    "logoImageId": "pl7l"
+  },
+  "23": {
+    "id": 23,
+    "name": "Dreamcast",
+    "abbreviation": "DC",
+    "family": "Sega",
+    "logoImageId": "pl7i"
+  },
+  "24": {
+    "id": 24,
+    "name": "Game Boy Advance",
+    "abbreviation": "GBA",
+    "family": "Nintendo",
+    "logoImageId": "pl73"
+  },
+  "25": {
+    "id": 25,
+    "name": "Amstrad CPC",
+    "abbreviation": "ACPC",
+    "family": null,
+    "logoImageId": "nlizydzqnuzvzfdapqoj"
+  },
+  "26": {
+    "id": 26,
+    "name": "ZX Spectrum",
+    "abbreviation": "ZXS",
+    "family": null,
+    "logoImageId": "plab"
+  },
+  "27": {
+    "id": 27,
+    "name": "MSX",
+    "abbreviation": "MSX",
+    "family": null,
+    "logoImageId": "pl8j"
+  },
+  "29": {
+    "id": 29,
+    "name": "Sega Mega Drive/Genesis",
+    "abbreviation": "Genesis",
+    "family": "Sega",
+    "logoImageId": "pl85"
+  },
+  "30": {
+    "id": 30,
+    "name": "Sega 32X",
+    "abbreviation": "Sega32",
+    "family": "Sega",
+    "logoImageId": "pl7r"
+  },
+  "32": {
+    "id": 32,
+    "name": "Sega Saturn",
+    "abbreviation": "Saturn",
+    "family": "Sega",
+    "logoImageId": "hrmqljpwunky1all3v78"
+  },
+  "33": {
+    "id": 33,
+    "name": "Game Boy",
+    "abbreviation": "Game Boy",
+    "family": "Nintendo",
+    "logoImageId": "pl7m"
+  },
+  "34": {
+    "id": 34,
+    "name": "Android",
+    "abbreviation": "Android",
+    "family": null,
+    "logoImageId": "plag"
+  },
+  "35": {
+    "id": 35,
+    "name": "Sega Game Gear",
+    "abbreviation": "Game Gear",
+    "family": "Sega",
+    "logoImageId": "pl7z"
+  },
+  "37": {
+    "id": 37,
+    "name": "Nintendo 3DS",
+    "abbreviation": "3DS",
+    "family": "Nintendo",
+    "logoImageId": "pl6o"
+  },
+  "38": {
+    "id": 38,
+    "name": "PlayStation Portable",
+    "abbreviation": "PSP",
+    "family": "PlayStation",
+    "logoImageId": "pl5y"
+  },
+  "39": {
+    "id": 39,
+    "name": "iOS",
+    "abbreviation": "iOS",
+    "family": null,
+    "logoImageId": "pl6w"
+  },
+  "41": {
+    "id": 41,
+    "name": "Wii U",
+    "abbreviation": "WiiU",
+    "family": "Nintendo",
+    "logoImageId": "pl6n"
+  },
+  "42": {
+    "id": 42,
+    "name": "N-Gage",
+    "abbreviation": "NGage",
+    "family": null,
+    "logoImageId": "pl76"
+  },
+  "44": {
+    "id": 44,
+    "name": "Tapwave Zodiac",
+    "abbreviation": "zod",
+    "family": null,
+    "logoImageId": "lfsdnlko80ftakbugceu"
+  },
+  "46": {
+    "id": 46,
+    "name": "PlayStation Vita",
+    "abbreviation": "Vita",
+    "family": "PlayStation",
+    "logoImageId": "pl6g"
+  },
+  "48": {
+    "id": 48,
+    "name": "PlayStation 4",
+    "abbreviation": "PS4",
+    "family": "PlayStation",
+    "logoImageId": "pl6f"
+  },
+  "49": {
+    "id": 49,
+    "name": "Xbox One",
+    "abbreviation": "XONE",
+    "family": "Xbox",
+    "logoImageId": "pl95"
+  },
+  "50": {
+    "id": 50,
+    "name": "3DO Interactive Multiplayer",
+    "abbreviation": "3DO",
+    "family": null,
+    "logoImageId": "pl7u"
+  },
+  "51": {
+    "id": 51,
+    "name": "Family Computer Disk System",
+    "abbreviation": "fds",
+    "family": "Nintendo",
+    "logoImageId": "pl8b"
+  },
+  "52": {
+    "id": 52,
+    "name": "Arcade",
+    "abbreviation": "Arcade",
+    "family": null,
+    "logoImageId": null
+  },
+  "53": {
+    "id": 53,
+    "name": "MSX2",
+    "abbreviation": "MSX2",
+    "family": null,
+    "logoImageId": "pl8k"
+  },
+  "55": {
+    "id": 55,
+    "name": "Legacy Cellphone",
+    "abbreviation": "Mobile",
+    "family": null,
+    "logoImageId": null
+  },
+  "57": {
+    "id": 57,
+    "name": "WonderSwan",
+    "abbreviation": "WonderSwan",
+    "family": null,
+    "logoImageId": "pl7b"
+  },
+  "58": {
+    "id": 58,
+    "name": "Super Famicom",
+    "abbreviation": "SFAM",
+    "family": "Nintendo",
+    "logoImageId": "pl7j"
+  },
+  "59": {
+    "id": 59,
+    "name": "Atari 2600",
+    "abbreviation": "Atari2600",
+    "family": null,
+    "logoImageId": "pl8l"
+  },
+  "60": {
+    "id": 60,
+    "name": "Atari 7800",
+    "abbreviation": "Atari7800",
+    "family": null,
+    "logoImageId": "pl8f"
+  },
+  "61": {
+    "id": 61,
+    "name": "Atari Lynx",
+    "abbreviation": "Lynx",
+    "family": null,
+    "logoImageId": "pl82"
+  },
+  "62": {
+    "id": 62,
+    "name": "Atari Jaguar",
+    "abbreviation": "Jaguar",
+    "family": null,
+    "logoImageId": "pl7y"
+  },
+  "63": {
+    "id": 63,
+    "name": "Atari ST/STE",
+    "abbreviation": "Atari-ST",
+    "family": null,
+    "logoImageId": "pla7"
+  },
+  "64": {
+    "id": 64,
+    "name": "Sega Master System",
+    "abbreviation": "SMS",
+    "family": "Sega",
+    "logoImageId": "pl8a"
+  },
+  "65": {
+    "id": 65,
+    "name": "Atari 8-bit",
+    "abbreviation": "Atari8bit",
+    "family": null,
+    "logoImageId": "plad"
+  },
+  "66": {
+    "id": 66,
+    "name": "Atari 5200",
+    "abbreviation": "Atari5200",
+    "family": null,
+    "logoImageId": "pl8g"
+  },
+  "67": {
+    "id": 67,
+    "name": "Intellivision",
+    "abbreviation": "intellivision",
+    "family": null,
+    "logoImageId": "pl8o"
+  },
+  "68": {
+    "id": 68,
+    "name": "ColecoVision",
+    "abbreviation": "colecovision",
+    "family": null,
+    "logoImageId": "pl8n"
+  },
+  "69": {
+    "id": 69,
+    "name": "BBC Microcomputer System",
+    "abbreviation": "bbcmicro",
+    "family": null,
+    "logoImageId": "pl86"
+  },
+  "71": {
+    "id": 71,
+    "name": "Commodore VIC-20",
+    "abbreviation": "vic-20",
+    "family": null,
+    "logoImageId": "pl8p"
+  },
+  "72": {
+    "id": 72,
+    "name": "Ouya",
+    "abbreviation": "Ouya",
+    "family": null,
+    "logoImageId": "pl6k"
+  },
+  "73": {
+    "id": 73,
+    "name": "BlackBerry OS",
+    "abbreviation": "blackberry",
+    "family": null,
+    "logoImageId": "bezbkk17hk0uobdkhjcv"
+  },
+  "74": {
+    "id": 74,
+    "name": "Windows Phone",
+    "abbreviation": "Win Phone",
+    "family": null,
+    "logoImageId": "pla3"
+  },
+  "75": {
+    "id": 75,
+    "name": "Apple II",
+    "abbreviation": "Apple][",
+    "family": null,
+    "logoImageId": "pl8r"
+  },
+  "77": {
+    "id": 77,
+    "name": "Sharp X1",
+    "abbreviation": "x1",
+    "family": null,
+    "logoImageId": "pl89"
+  },
+  "78": {
+    "id": 78,
+    "name": "Sega CD",
+    "abbreviation": "segacd",
+    "family": "Sega",
+    "logoImageId": "pl7w"
+  },
+  "82": {
+    "id": 82,
+    "name": "Web browser",
+    "abbreviation": "browser",
+    "family": null,
+    "logoImageId": "plal"
+  },
+  "86": {
+    "id": 86,
+    "name": "TurboGrafx-16/PC Engine",
+    "abbreviation": "turbografx16",
+    "family": null,
+    "logoImageId": "pl88"
+  },
+  "87": {
+    "id": 87,
+    "name": "Virtual Boy",
+    "abbreviation": "virtualboy",
+    "family": "Nintendo",
+    "logoImageId": "pl7s"
+  },
+  "93": {
+    "id": 93,
+    "name": "Commodore 16",
+    "abbreviation": "C16",
+    "family": null,
+    "logoImageId": "plf4"
+  },
+  "94": {
+    "id": 94,
+    "name": "Commodore Plus/4",
+    "abbreviation": "C+4",
+    "family": null,
+    "logoImageId": "pl8m"
+  },
+  "99": {
+    "id": 99,
+    "name": "Family Computer",
+    "abbreviation": "famicom",
+    "family": "Nintendo",
+    "logoImageId": "pl7p"
+  },
+  "113": {
+    "id": 113,
+    "name": "OnLive Game System",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "plan"
+  },
+  "114": {
+    "id": 114,
+    "name": "Amiga CD32",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl7v"
+  },
+  "116": {
+    "id": 116,
+    "name": "Acorn Archimedes",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "plas"
+  },
+  "118": {
+    "id": 118,
+    "name": "FM Towns",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pla5"
+  },
+  "121": {
+    "id": 121,
+    "name": "Sharp X68000",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl8i"
+  },
+  "123": {
+    "id": 123,
+    "name": "WonderSwan Color",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl79"
+  },
+  "125": {
+    "id": 125,
+    "name": "PC-8801",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "plf2"
+  },
+  "128": {
+    "id": 128,
+    "name": "PC Engine SuperGrafx",
+    "abbreviation": "supergrafx",
+    "family": null,
+    "logoImageId": "pla4"
+  },
+  "129": {
+    "id": 129,
+    "name": "Texas Instruments TI-99",
+    "abbreviation": "ti-99",
+    "family": null,
+    "logoImageId": "plf0"
+  },
+  "130": {
+    "id": 130,
+    "name": "Nintendo Switch",
+    "abbreviation": "Switch",
+    "family": "Nintendo",
+    "logoImageId": "pleu"
+  },
+  "132": {
+    "id": 132,
+    "name": "Amazon Fire TV",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl91"
+  },
+  "133": {
+    "id": 133,
+    "name": "Philips Videopac G7000",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "fqwnmmpanb5se6ebccm3"
+  },
+  "134": {
+    "id": 134,
+    "name": "Acorn Electron",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl8d"
+  },
+  "137": {
+    "id": 137,
+    "name": "New Nintendo 3DS",
+    "abbreviation": null,
+    "family": "Nintendo",
+    "logoImageId": "pl6j"
+  },
+  "149": {
+    "id": 149,
+    "name": "PC-98",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pla6"
+  },
+  "150": {
+    "id": 150,
+    "name": "Turbografx-16/PC Engine CD",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pl83"
+  },
+  "152": {
+    "id": 152,
+    "name": "FM-7",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "pley"
+  },
+  "159": {
+    "id": 159,
+    "name": "Nintendo DSi",
+    "abbreviation": null,
+    "family": "Nintendo",
+    "logoImageId": "pl6u"
+  },
+  "161": {
+    "id": 161,
+    "name": "Windows Mixed Reality",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": null
+  },
+  "162": {
+    "id": 162,
+    "name": "Oculus VR",
+    "abbreviation": "Oculus VR",
+    "family": null,
+    "logoImageId": "pivaofe9ll2b8cqfvvbu"
+  },
+  "163": {
+    "id": 163,
+    "name": "SteamVR",
+    "abbreviation": "Steam VR",
+    "family": null,
+    "logoImageId": "ipbdzzx7z3rwuzm9big4"
+  },
+  "165": {
+    "id": 165,
+    "name": "PlayStation VR",
+    "abbreviation": "PlayStation VR",
+    "family": null,
+    "logoImageId": "niiex1gyepiu59aghpah"
+  },
+  "167": {
+    "id": 167,
+    "name": "PlayStation 5",
+    "abbreviation": "PS5",
+    "family": "PlayStation",
+    "logoImageId": "plcv"
+  },
+  "169": {
+    "id": 169,
+    "name": "Xbox Series X|S",
+    "abbreviation": "Series X",
+    "family": "Xbox",
+    "logoImageId": "plfl"
+  },
+  "170": {
+    "id": 170,
+    "name": "Google Stadia",
+    "abbreviation": "Stadia",
+    "family": null,
+    "logoImageId": "pl94"
+  },
+  "240": {
+    "id": 240,
+    "name": "Zeebo",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "plbx"
+  },
+  "306": {
+    "id": 306,
+    "name": "Satellaview",
+    "abbreviation": null,
+    "family": "Nintendo",
+    "logoImageId": "plgj"
+  },
+  "307": {
+    "id": 307,
+    "name": "Game & Watch",
+    "abbreviation": null,
+    "family": "Nintendo",
+    "logoImageId": "pler"
+  },
+  "309": {
+    "id": 309,
+    "name": "Evercade",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": null
+  },
+  "384": {
+    "id": 384,
+    "name": "Oculus Quest",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": "plh7"
+  },
+  "385": {
+    "id": 385,
+    "name": "Oculus Rift",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": null
+  },
+  "386": {
+    "id": 386,
+    "name": "Oculus Quest 2",
+    "abbreviation": null,
+    "family": null,
+    "logoImageId": null
+  }
+}
