@@ -31,6 +31,7 @@ npm start
 ## Details
 - Search for games automatically when typing stops (but _not_ on every key stroke)
 - Ensure that no unnecessary renders happen (e.g. when a game card is opened, only it and the one closing should render and the rest of the list should not)
+- Only one game can be opened at a time; opening a game should close the previous one.
 - Optimize fetching of resources so that loading all game details happens as fast as possible
 - Render data as soon as it's available (as opposed to waiting for all data)
 - Don't fetch any particular resource more than once
