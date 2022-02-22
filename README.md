@@ -1,6 +1,7 @@
 # Start Here
 In this challenge you'll use a provided API to build a UI for browsing video games. To see what the end result should look like and to get oriented quickly, watch the video:
--video-
+
+[Walkthrough Video](https://tella.video/code-challenge-walkthrough-1c4x)
 
 # What's Provided
 Use this repo as your starting point. It contains:
