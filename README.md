@@ -41,7 +41,6 @@ npm start
 - Feel free to add libraries.
 - Leaving notes about design decisions and trade-offs with alternatives is encouraged.
 - Classical components preferred.
-- _Do_ use Redux.
 
 # Submission
 Please do _not_ fork this repo or put your solution on Github. Rather, make a `.zip` (without `node_modules/` to reduce file size) and email it to engineering@milliegiving.com.
